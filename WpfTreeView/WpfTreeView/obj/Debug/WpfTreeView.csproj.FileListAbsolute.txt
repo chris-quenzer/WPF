@@ -1,0 +1,14 @@
+E:\LearningProjects\WPF\WpfTreeView\WpfTreeView\bin\Debug\WpfTreeView.exe.config
+E:\LearningProjects\WPF\WpfTreeView\WpfTreeView\bin\Debug\WpfTreeView.exe
+E:\LearningProjects\WPF\WpfTreeView\WpfTreeView\bin\Debug\WpfTreeView.pdb
+E:\LearningProjects\WPF\WpfTreeView\WpfTreeView\obj\Debug\WpfTreeView.csprojResolveAssemblyReference.cache
+E:\LearningProjects\WPF\WpfTreeView\WpfTreeView\obj\Debug\MainWindow.g.cs
+E:\LearningProjects\WPF\WpfTreeView\WpfTreeView\obj\Debug\App.g.cs
+E:\LearningProjects\WPF\WpfTreeView\WpfTreeView\obj\Debug\WpfTreeView_MarkupCompile.cache
+E:\LearningProjects\WPF\WpfTreeView\WpfTreeView\obj\Debug\WpfTreeView_MarkupCompile.lref
+E:\LearningProjects\WPF\WpfTreeView\WpfTreeView\obj\Debug\MainWindow.baml
+E:\LearningProjects\WPF\WpfTreeView\WpfTreeView\obj\Debug\WpfTreeView.g.resources
+E:\LearningProjects\WPF\WpfTreeView\WpfTreeView\obj\Debug\WpfTreeView.Properties.Resources.resources
+E:\LearningProjects\WPF\WpfTreeView\WpfTreeView\obj\Debug\WpfTreeView.csproj.GenerateResource.Cache
+E:\LearningProjects\WPF\WpfTreeView\WpfTreeView\obj\Debug\WpfTreeView.exe
+E:\LearningProjects\WPF\WpfTreeView\WpfTreeView\obj\Debug\WpfTreeView.pdb
